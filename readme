@@ -1,0 +1,15 @@
+# TO-DO List
+
+Uma aplicação web simples para organizar suas tarefas. Permite adicionar, mover e limpar tarefas em três categorias: a fazer, em progresso e concluídas. Desenvolvido usando HTML, CSS e JavaScript, apresentando um design atraente e funcionalidades interativas.
+
+## Funcionalidades
+
+- **Adicionar Tarefas:** Adicione facilmente novas tarefas digitando no campo de entrada e clicando em "Adicionar".
+- **Mover Tarefas:** Mova tarefas de "A Fazer" para "Em Progresso" e depois para "Concluídas" com um simples clique.
+- **Limpar Listas:** Limpe todas as listas com o botão "Limpar" para começar novamente.
+
+## Tecnologias Utilizadas
+
+- HTML: Estrutura e interface do usuário.
+- CSS: Estilização e design.
+- JavaScript: Funcionalidades interativas.
